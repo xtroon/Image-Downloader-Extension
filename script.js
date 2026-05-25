@@ -16,8 +16,6 @@ function showImages(images){
         const img_svg = document.createElement("img");
         img_svg.src = "img/download.svg";
         img_svg.alt = "Download";
-        img_svg.style.width = "20px";
-        img_svg.style.height = "20px";
         downloadBtn.appendChild(img_svg);
         downloadBtn.title = "Download";
 
