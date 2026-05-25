@@ -40,8 +40,9 @@ A simple and elegant Chrome extension to download all images from any webpage wi
 - `script.js` - Popup logic
 - `content.js` - Content script for detecting images
 - `background.js` - Background service worker
-- `logo.svg` - Extension icon
-- `download.svg` - Download button icon
+- `img/` - Image assets folder
+  - `logo.svg` - Extension icon
+  - `download.svg` - Download button icon
 
 ## License
 
