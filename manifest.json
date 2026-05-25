@@ -10,7 +10,7 @@
 
   "action": {
     "default_popup": "index.html",
-    "default_icon": "logo.svg"
+    "default_icon": "img/logo.svg"
   },
 
   "background": {

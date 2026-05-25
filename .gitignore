@@ -1,9 +1,0 @@
-node_modules/
-.DS_Store
-*.zip
-*.crx
-dist/
-build/
-.idea/
-.vscode/
-*.log

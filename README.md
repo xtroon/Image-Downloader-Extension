@@ -14,7 +14,7 @@ A simple and elegant Chrome extension to download all images from any webpage wi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/image-downloader-extension.git
+   git clone https://github.com/xtroon/image-downloader-extension.git
    ```
 
 2. Open Chrome and navigate to `chrome://extensions/`
@@ -49,4 +49,4 @@ MIT License - feel free to use and modify
 
 ## Made by
 
-Made by me ✨
+Made by xtroon ✨
