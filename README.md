@@ -47,6 +47,6 @@ A simple and elegant Chrome extension to download all images from any webpage wi
 
 MIT License - feel free to use and modify
 
-## Author
+## Made by
 
-Image Downloader Extension
+Made by me ✨
