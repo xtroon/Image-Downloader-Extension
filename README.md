@@ -2,6 +2,8 @@
 
 A simple and elegant Chrome extension to download all images from any webpage with a single click.
 
+![Image Downloader Extension](./img/readmeImg.png)
+
 ## Features
 
 - 🖼️ Displays all images found on the current page
