@@ -13,7 +13,12 @@ function showImages(images){
 
         const downloadBtn = document.createElement("button");
         downloadBtn.className = "download-icon";
-        downloadBtn.innerHTML = "⬇️";
+        const img_svg = document.createElement("img");
+        img_svg.src = "download.svg";
+        img_svg.alt = "Download";
+        img_svg.style.width = "20px";
+        img_svg.style.height = "20px";
+        downloadBtn.appendChild(img_svg);
         downloadBtn.title = "Download";
 
         downloadBtn.onclick = (e) =>{
